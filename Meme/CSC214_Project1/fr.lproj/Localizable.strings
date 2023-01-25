@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  CSC214_Project1
+
+  Created by Sifeng Chen on 10/1/22.
+  
+*/
+
+"goBack" = "retourner";
+"pressDog" = "appuie sur le chien pour être heureux";
+
+//memes string
+"s1" = "qui es-tu?";
+"s2" = "OK frère";
+"s3" = "waouh mec";
+"s4" = "quoi???";
+"s5" = "OK mec";
+"s6" = "prends-le fille";
+"s7" = "que'est-ce que c'est";
+"s8" = "arrêter le bouchon";
+"frenchMeme" = "french???";
+"bonus" = "Prime meme";

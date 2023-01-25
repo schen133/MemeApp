@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  CSC214_Project1
+
+  Created by Sifeng Chen on 10/1/22.
+  
+*/
+
+"goBack" = "Go back";
+"pressDog" = "Press the dog to be happy";
+
+//memes string
+"s1" = "who are you?";
+"s2" = "Ok bro";
+"s3" = "wow dude";
+"s4" = "what???";
+"s5" = "ok dude";
+"s6" = "slay girl";
+"s7" = "what is this";
+"s8" = "stop the cap";
+"frenchMeme" = "???";
+"bonus" = "Bonus meme";
